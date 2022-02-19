@@ -1,0 +1,8 @@
+@media ( max-width: 575px) {
+    .advantages {
+        &__wrapper {
+            flex-direction: column;
+            align-items: center;
+        }
+    }
+}
