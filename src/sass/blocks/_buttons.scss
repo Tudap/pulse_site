@@ -9,6 +9,9 @@
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
+    &:focus {
+        border: none;
+    }
     &_main {
         margin-top: 67px;
         width: 303px;
